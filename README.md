@@ -21,3 +21,6 @@ git clone https://github.com/Topherblood/DEDSEC-BF
 cd DEDSEC-BF
 
 python DEDSEC-BF.py
+
+
+![Screenshot_20240816-082319.jpg](https://github.com/user-attachments/assets/a192d682-27e9-4e73-8b7b-2fb12d09eef9)
