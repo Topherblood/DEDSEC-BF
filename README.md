@@ -2,3 +2,22 @@
 
 Soyez responsables et éthiques dans vos actions.
 
+#🔰INSTALLATION🔰
+
+apt update
+
+apt upgrade
+
+apt install git
+
+pkg install python
+
+pip install user_agent
+
+pip install pyfiglet
+
+git clone https://github.com/Topherblood/DEDSEC-BF
+
+cd DEDSEC-BF
+
+python DEDSEC-BF.py
