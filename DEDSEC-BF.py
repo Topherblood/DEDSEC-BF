@@ -85,7 +85,7 @@ max_width = max(len(line) for line in info)
 
 # Création du cadre avec du texte bleu
 border = "+" + "-" * (max_width + 2) + "+"
-blue_text = "\033[34m"  # Couleur bleue du texte
+blue_text = "\033[91m"  # Couleur bleue du texte
 reset = "\033[0m"  # Réinitialiser la couleur
 
 # Afficher le texte ASCII art
