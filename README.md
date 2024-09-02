@@ -24,4 +24,4 @@ cd DEDSEC-BF
 python DEDSEC-BF.py
 
 
-![Screenshot_20240816-082319.jpg](https://github.com/user-attachments/assets/a192d682-27e9-4e73-8b7b-2fb12d09eef9)
+![Screenshot_20240902-010114 (1).jpg](https://github.com/user-attachments/assets/ac47ca71-319a-469c-913e-b0fc5697f1d0)
